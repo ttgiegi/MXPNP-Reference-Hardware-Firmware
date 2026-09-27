@@ -33,6 +33,12 @@ Directories will be added as legacy designs are archived.
 
 Hardware releases are provided for study, manufacturing of an older design, porting work, and experimentation. Availability and completeness vary by design.
 
+## Legacy Mechanical Designs
+
+The archive also includes historical CoreXY mechanical-design references for DIY study and experimentation. They are marked `LEGACY`, `EXPERIMENTAL`, and `UNTESTED`; they are not validated machine designs and are not recommended for direct production use.
+
+The large design archives are distributed through the [CoreXY Mechanical Reference Release](https://github.com/ttgiegi/MXPNP-Reference-Hardware-Firmware/releases/tag/legacy-corexy-v1.0.0). See the [CoreXY Mechanical Reference Designs Wiki page](https://github.com/ttgiegi/MXPNP-Reference-Hardware-Firmware/wiki/CoreXY-Mechanical-Reference-Designs) for download guidance, checksums, and known limitations.
+
 ## Legacy Firmware
 
 Firmware releases are retained as historical implementations and configurations. Compatibility with current MXPNP hardware or software is not guaranteed.
@@ -48,11 +54,6 @@ This repository is distinct from the current MXPNP project and its documentation
 ## Disclaimer
 
 Legacy designs are provided for reference and experimentation. They are not guaranteed to be compatible with current MXPNP hardware or software, production-ready, safe, or actively supported unless a particular design explicitly states otherwise.
-<<<<<<< HEAD
 
 ## Contact
-
-=======
-## Contact
->>>>>>> 0e271318e5107eef8a8c1f40d874198b63bffa81
 For questions about uncertain or archive-specific information, contact `1025971921@qq.com`.
