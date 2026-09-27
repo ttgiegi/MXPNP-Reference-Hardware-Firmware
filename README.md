@@ -48,7 +48,11 @@ This repository is distinct from the current MXPNP project and its documentation
 ## Disclaimer
 
 Legacy designs are provided for reference and experimentation. They are not guaranteed to be compatible with current MXPNP hardware or software, production-ready, safe, or actively supported unless a particular design explicitly states otherwise.
+<<<<<<< HEAD
 
 ## Contact
 
+=======
+## Contact
+>>>>>>> 0e271318e5107eef8a8c1f40d874198b63bffa81
 For questions about uncertain or archive-specific information, contact `1025971921@qq.com`.
