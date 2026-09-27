@@ -33,6 +33,14 @@ Directories will be added as legacy designs are archived.
 
 Hardware releases are provided for study, manufacturing of an older design, porting work, and experimentation. Availability and completeness vary by design.
 
+### PCB Design Notes
+
+Design-specific scope, upstream references, release contents, and known limitations are documented on these Wiki pages:
+
+- [Smoothieware Control Board](https://github.com/ttgiegi/MXPNP-Reference-Hardware-Firmware/wiki/Smoothieware-Control-Board)
+- [Six-Axis Pick-and-Place Mainboard](https://github.com/ttgiegi/MXPNP-Reference-Hardware-Firmware/wiki/Six%E2%80%90Axis-Pick%E2%80%90and%E2%80%90Place-Mainboard)
+- [Nine-Axis Pick-and-Place Mainboard](https://github.com/ttgiegi/MXPNP-Reference-Hardware-Firmware/wiki/Nine%E2%80%90Axis-Pick%E2%80%90and%E2%80%90Place-Mainboard)
+
 ## Legacy Mechanical Designs
 
 The archive also includes historical CoreXY mechanical-design references for DIY study and experimentation. They are marked `LEGACY`, `EXPERIMENTAL`, and `UNTESTED`; they are not validated machine designs and are not recommended for direct production use.
