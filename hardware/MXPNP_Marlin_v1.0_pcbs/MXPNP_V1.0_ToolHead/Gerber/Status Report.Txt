@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MXPNP一代集线板.PrjPcb]
+   Generated File[mxpnp一代集线板.TXT]
+   Generated File[mxpnp一代集线板.LDP]
+   Generated File[mxpnp一代集线板.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:05:10 On 2026/10/3

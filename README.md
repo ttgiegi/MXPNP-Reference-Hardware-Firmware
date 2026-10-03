@@ -40,6 +40,7 @@ Design-specific scope, upstream references, release contents, and known limitati
 - [Smoothieware Control Board](https://github.com/ttgiegi/MXPNP-Reference-Hardware-Firmware/wiki/Smoothieware-Control-Board)
 - [Six-Axis Pick-and-Place Mainboard](https://github.com/ttgiegi/MXPNP-Reference-Hardware-Firmware/wiki/Six%E2%80%90Axis-Pick%E2%80%90and%E2%80%90Place-Mainboard)
 - [Nine-Axis Pick-and-Place Mainboard](https://github.com/ttgiegi/MXPNP-Reference-Hardware-Firmware/wiki/Nine%E2%80%90Axis-Pick%E2%80%90and%E2%80%90Place-Mainboard)
+- [MXPNP Marlin v1.0 Motion Controller](https://github.com/ttgiegi/MXPNP-Reference-Hardware-Firmware/wiki/MXPNP-Marlin-v1.0-Motion-Controller)
 
 ## Legacy Mechanical Designs
 

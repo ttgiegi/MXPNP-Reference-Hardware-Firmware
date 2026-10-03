@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MX-PNP.PrjPcb]
+   Generated File[mx-pnp-RoundHoles.TXT]
+   Generated File[mx-pnp-SlotHoles.TXT]
+   Generated File[mx-pnp.LDP]
+   Generated File[mx-pnp.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:02:54 On 2026/10/3
