@@ -1,5 +1,14 @@
 # MXPNP Legacy Hardware & Firmware
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="branding/c02/mxpnp-white.svg">
+    <img src="branding/c02/mxpnp.svg" alt="MXPNP — by MX TECH / 萌新科技" width="480">
+  </picture>
+</p>
+
+[Official C02 SVG assets](branding/c02/)
+
 This repository is a public reference archive for historical and superseded MXPNP hardware designs and legacy firmware.
 
 ## About
